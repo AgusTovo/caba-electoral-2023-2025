@@ -1,0 +1,2 @@
+beautifulsoup4 geopandas ipykernel matplotlib numpy pandas pyarrow
+rapidfuzz requests statsmodels tqdm
