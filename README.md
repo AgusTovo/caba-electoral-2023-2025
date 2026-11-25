@@ -52,7 +52,7 @@ Análisis de los 167 circuitos electorales de la Ciudad de Buenos Aires en tres 
    ```bash
    pip install -r requirements.txt
    ```
-2. Abrí `Proyecto caba electoral 2023-2025.ipynb` (funciona en Google Colab o Jupyter).
+2. Abrí `proyecto_caba_electoral_2023_2025.ipynb` (funciona en Google Colab o Jupyter).
 3. La primera vez, poné `DESCARGAR = True` en la sección de configuración para bajar los datos de las fuentes oficiales a `data/raw/`. Después dejalo en `False`.
 4. Ejecutá todo de principio a fin. La última sección corre las validaciones contra los totales oficiales.
 
@@ -66,7 +66,7 @@ caba-electoral-2023-2025/
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
-├── Proyecto caba electoral 2023-2025.ipynb
+├── proyecto_caba_electoral_2023_2025.ipynb
 ├── data/
 │   ├── raw/          (no se sube; se genera con DESCARGAR = True)
 │   └── processed/    (tablas por circuito y CSV de los gráficos)
