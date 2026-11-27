@@ -77,7 +77,9 @@ caba-electoral-2023-2025/
 
 ## Autor
 
-**Agustin Tovorosky** · Gráficos hechos con [Datawrapper](https://www.datawrapper.de).
+**Agustin Tovorosky**
+
+Gráficos hechos con [Datawrapper](https://www.datawrapper.de).
 
 LinkedIn: https://www.linkedin.com/in/agustin-tovorosky-9aa779148/
 
