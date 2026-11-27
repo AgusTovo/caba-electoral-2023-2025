@@ -2,6 +2,8 @@
 
 **Nivel socioeconómico, abstención y la alianza LLA–PRO, circuito por circuito (2023–2025)**
 
+📄 Nota completa: https://agustovo.substack.com/p/en-2023-milei-pescaba-en-el-sur-en29of0z&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
 Análisis de los 167 circuitos electorales de la Ciudad de Buenos Aires en tres elecciones (generales 2023, legislativas porteñas del 18 de mayo de 2025 y legislativas nacionales del 26 de octubre de 2025), cruzados con el Censo 2022.
 
 ![Voto a LLA por nivel educativo](img/1_lla_por_nivel_educativo.png)
